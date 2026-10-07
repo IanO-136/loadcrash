@@ -1,0 +1,12 @@
+pattern,trials,crash_points,final_bad,transient_bad,unsafe_points_final,unsafe_points_transient
+A1,200,4,50,0,1,0
+A2,200,4,100,0,2,0
+A3,200,4,0,0,0,0
+A4,150,3,0,0,0,0
+M1,200,4,0,0,0,0
+M2,150,3,0,0,0,0
+P1,250,5,0,98,0,2
+P2,150,3,0,0,0,0
+F1,200,4,100,44,2,1
+F2,250,5,0,0,0,0
+F3,250,5,50,50,1,1

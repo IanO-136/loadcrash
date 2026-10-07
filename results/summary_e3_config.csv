@@ -1,0 +1,9 @@
+config,trials,trials_with_loss,trials_with_dup,trials_correct
+A4 / gt,40,40,0,0
+A4 / lookback L=15,40,0,40,0
+M2 / gt,40,40,0,0
+M2 / lookback L=15,40,0,0,40
+M1 / lookback L=15,50,0,0,50
+A1 / lookback L=15,50,0,50,0
+P2 / gt,40,40,0,0
+P2 / lookback L=15,40,0,0,40

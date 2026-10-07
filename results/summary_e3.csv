@@ -1,0 +1,35 @@
+config,crash_point,n,runs_lost,runs_dup,mean_lost,mean_dup
+A4 / gt,(no crash),10,10,0,48.3,0.0
+A4 / gt,after_extract,10,10,0,48.3,0.0
+A4 / gt,mid_txn,10,10,0,48.3,0.0
+A4 / gt,after_commit,10,10,0,48.3,0.0
+A4 / lookback L=15,(no crash),10,0,10,0.0,2231.9
+A4 / lookback L=15,after_extract,10,0,10,0.0,2231.9
+A4 / lookback L=15,mid_txn,10,0,10,0.0,2231.9
+A4 / lookback L=15,after_commit,10,0,10,0.0,2344.4
+M2 / gt,(no crash),10,10,0,48.3,0.0
+M2 / gt,after_extract,10,10,0,48.3,0.0
+M2 / gt,mid_txn,10,10,0,48.3,0.0
+M2 / gt,after_commit,10,10,0,48.3,0.0
+M2 / lookback L=15,(no crash),10,0,0,0.0,0.0
+M2 / lookback L=15,after_extract,10,0,0,0.0,0.0
+M2 / lookback L=15,mid_txn,10,0,0,0.0,0.0
+M2 / lookback L=15,after_commit,10,0,0,0.0,0.0
+M1 / lookback L=15,(no crash),10,0,0,0.0,0.0
+M1 / lookback L=15,after_extract,10,0,0,0.0,0.0
+M1 / lookback L=15,mid_data_txn,10,0,0,0.0,0.0
+M1 / lookback L=15,after_data_commit,10,0,0,0.0,0.0
+M1 / lookback L=15,after_wm_commit,10,0,0,0.0,0.0
+A1 / lookback L=15,(no crash),10,0,10,0.0,2231.9
+A1 / lookback L=15,after_extract,10,0,10,0.0,2231.9
+A1 / lookback L=15,mid_data_txn,10,0,10,0.0,2231.9
+A1 / lookback L=15,after_data_commit,10,0,10,0.0,2414.2
+A1 / lookback L=15,after_wm_commit,10,0,10,0.0,2344.4
+P2 / gt,(no crash),10,10,0,45.1,0.0
+P2 / gt,after_extract,10,10,0,45.1,0.0
+P2 / gt,mid_txn,10,10,0,45.1,0.0
+P2 / gt,after_commit,10,10,0,45.1,0.0
+P2 / lookback L=15,(no crash),10,0,0,0.0,0.0
+P2 / lookback L=15,after_extract,10,0,0,0.0,0.0
+P2 / lookback L=15,mid_txn,10,0,0,0.0,0.0
+P2 / lookback L=15,after_commit,10,0,0,0.0,0.0

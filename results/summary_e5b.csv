@@ -1,0 +1,11 @@
+pattern,guard,trials,correct,fenced,with_loss,with_dup
+A4,none,30,6,0,0,24
+A4,monotonic,30,6,0,0,24
+A4,cas,30,30,24,0,0
+M2,none,30,30,0,0,0
+M2,monotonic,30,30,0,0,0
+M2,cas,30,30,24,0,0
+P2,none,30,30,0,0,0
+P2,monotonic,30,18,0,12,0
+P2,cas,30,30,24,0,0
+F4,none,30,30,30,0,0
