@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use loadcrash or its results, please cite it as below."
+title: "loadcrash: crash, late-commit and zombie-run tests for incremental data loads"
+type: software
+authors:
+  - family-names: "O'Leary"
+    given-names: "Ian"
+    affiliation: "Independent Researcher"
+license: MIT
+repository-code: "https://github.com/IanO-136/loadcrash"
+version: "1.0.0"
+date-released: "2026-10-07"
+keywords:
+  - incremental load
+  - high watermark
+  - crash consistency
+  - data pipelines
+  - fencing
+preferred-citation:
+  type: article
+  title: "Late Commits and Zombie Runs: A Study of Watermark Designs for Incremental Data Loads"
+  authors:
+    - family-names: "O'Leary"
+      given-names: "Ian"
+      affiliation: "Independent Researcher"
+  year: 2026

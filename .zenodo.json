@@ -1,0 +1,19 @@
+{
+  "title": "loadcrash: crash, late-commit and zombie-run tests for incremental data loads",
+  "description": "Harness, raw results (8,850 trials) and analysis scripts for the paper \"Late Commits and Zombie Runs: A Study of Watermark Designs for Incremental Data Loads\". It injects crashes, late source commits and zombie runs into thirteen incremental-load patterns and checks every result against an exact oracle.",
+  "upload_type": "software",
+  "license": "MIT",
+  "creators": [
+    {
+      "name": "O'Leary, Ian",
+      "affiliation": "Independent Researcher"
+    }
+  ],
+  "keywords": [
+    "incremental load",
+    "high watermark",
+    "crash consistency",
+    "data pipelines",
+    "fencing"
+  ]
+}
