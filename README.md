@@ -108,7 +108,7 @@ experiment picks it up automatically.
 ## Citing
 
 See `CITATION.cff`, or use GitHub's "Cite this repository" button. An archived
-copy with a DOI is on Zenodo.
+copy with a DOI is on Zenodo here: https://zenodo.org/records/23226168.
 
 ## License
 
